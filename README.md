@@ -1,16 +1,13 @@
-# p2021
+# Subscription Tracker
 
-A new Flutter project.
+an app to track your Subscription for shows/gaming services. created using Flutter & Sqlite.
 
-## Getting Started
+# ScreenShots
+<div>
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/62109686/121804464-33e41380-cc4f-11eb-9070-25f905990c3c.png" width="300">
+  <img src="https://user-images.githubusercontent.com/62109686/121804625-eddb7f80-cc4f-11eb-9da8-d3cdaf007ecc.png" width="300">
+  <img src="https://user-images.githubusercontent.com/62109686/121804624-ecaa5280-cc4f-11eb-8581-ef70bd294dd8.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
